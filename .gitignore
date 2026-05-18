@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Large datasets
+**/data/MNIST/
+
+# Anaconda project metadata
+anaconda_projects/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
